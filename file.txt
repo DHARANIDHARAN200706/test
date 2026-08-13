@@ -1,7 +1,6 @@
 "hi gokul" 
-<<<<<<< HEAD
 "hi gokul1 how atre you wvwwverv
-=======
 "hi gokul1 how atre youwvwwverv
 yello
->>>>>>> origin/main
+yellorfrf
+
